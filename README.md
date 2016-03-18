@@ -13,8 +13,8 @@ HOW TO RUN THIS PROJECT
 
 - Download the TheMaze.zip (Unzip it to the desire location)
 - Open Android Studio
-- Click on File -> import -> "Target the loacation of the project" and import the project
-- Now simply Run the project or press (shift -F10) to launch the app
+- Click on File -> import -> "loacate the project" and press import
+- To run the app simply press (shift+F10) to launch the app
 *****************************************************************************************
 
 Future Goals
