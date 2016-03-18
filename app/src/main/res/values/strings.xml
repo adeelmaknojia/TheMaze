@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Maze</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_solve">Solve</string>
+    <string name="button_new_game">New Game</string>
+    <string name="toast_startingPoint">Click on any cell to change the starting point</string>
+    <string name="toast_destinationPoint">Click on any cell to change the destination point</string>
+    <string name="toast_failStatus">No Solution Found!</string>
+    <string name="toast_success">Goal Found!</string>
+    <string name="board_width">width</string>
+    <string name="board_height">height</string>
+</resources>
